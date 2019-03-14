@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CopyToPrograms", "CopyToPrograms\CopyToPrograms.csproj", "{8D3AA026-8D9A-482A-924E-913C80800472}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CopyToProgramsTest", "CopyToProgramsTest\CopyToProgramsTest.csproj", "{E29E42A3-FF20-4771-A316-6416A7724672}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8D3AA026-8D9A-482A-924E-913C80800472}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8D3AA026-8D9A-482A-924E-913C80800472}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8D3AA026-8D9A-482A-924E-913C80800472}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8D3AA026-8D9A-482A-924E-913C80800472}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E29E42A3-FF20-4771-A316-6416A7724672}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E29E42A3-FF20-4771-A316-6416A7724672}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E29E42A3-FF20-4771-A316-6416A7724672}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E29E42A3-FF20-4771-A316-6416A7724672}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
